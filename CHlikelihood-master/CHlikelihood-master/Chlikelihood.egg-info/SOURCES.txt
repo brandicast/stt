@@ -1,0 +1,9 @@
+README.md
+setup.py
+CHlikelihood/__init__.py
+CHlikelihood/likelihood.py
+Chlikelihood.egg-info/PKG-INFO
+Chlikelihood.egg-info/SOURCES.txt
+Chlikelihood.egg-info/dependency_links.txt
+Chlikelihood.egg-info/requires.txt
+Chlikelihood.egg-info/top_level.txt
